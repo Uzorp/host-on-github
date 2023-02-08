@@ -1,0 +1,13 @@
+.bash_history
+.bash_logout .bashrc .cache/
+.bash_logout .bashrc .cache/
+.bash_logout
+-r .bash_logout .bashrc .cache/
+.bashrc
+.cache/
+.docker/
+.profile
+.ssh/
+.viminfo
+.D
+Dockerfile
